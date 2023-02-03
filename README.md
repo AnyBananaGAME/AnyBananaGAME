@@ -1,6 +1,6 @@
-## Hello there!
+# Hello there!
 
-## AnyBananaGAME (bonana)
+## I am AnyBananaGAME (bonana)
 
 > 16 year old programmer who mostly uses JS
 
