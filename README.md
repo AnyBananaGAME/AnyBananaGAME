@@ -2,7 +2,7 @@
 
 ## I am AnyBananaGAME (bonana)
 
-> 17 year old programmer who mostly uses JS
+> 17 year old  (born in 2006 April) programmer who mostly uses JS
 
 > Discord => bonana#7680
 
