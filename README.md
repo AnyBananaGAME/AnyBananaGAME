@@ -1,22 +1,54 @@
-# Hello there!
+<h1 align="center">Hello there! 👋</h1>
+<p align="center">I'm AnyBananaGAME (bonana), a 17-year-old programmer born in April 2006, passionate about JavaScript.</p>
 
-## I am AnyBananaGAME (bonana)
-
-> 17 year old  (born in 2006 April) programmer who mostly uses JS
-
-> Discord => bonana#7680
-
-> Twitter @any_banana
-
-![My github Stats](https://github-readme-stats.vercel.app/api?username=AnyBananaGAME&show_icons=true&theme=tokyonight)
-
-## Language's and Tool's:
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <a href="https://discord.com/channels/@me/599675959888707594">
+    <img src="https://img.shields.io/badge/Discord-bonana%237680-7289da?style=flat&logo=discord" alt="Discord">
+  </a>
+  <a href="https://twitter.com/any_banana">
+    <img src="https://img.shields.io/badge/Twitter-@any_banana-1DA1F2?style=flat&logo=twitter" alt="Twitter">
+  </a>
 </p>
-<br>
-<br> 
 
-Times people visited my profile :p
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnyBananaGAME&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
 
-<img src="https://profile-counter.glitch.me/AnyBananaGAME/count.svg" />
+<h3 align="center">Most Used Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyBananaGAME&layout=compact&theme=tokyonight" alt="Most Used Languages">
+</p>
+
+<h3 align="center">Profile Visits</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AnyBananaGAME/count.svg" alt="Profile Visits">
+</p>
+
+<h3 align="center">Latest GitHub Activity</h3>
+<p align="center">
+  <a href="https://github.com/users/AnyBananaGAME.atom">
+    <img src="https://img.shields.io/badge/Latest%20Activity-Feed-1F222E?style=flat&logo=github" alt="Latest GitHub Activity">
+  </a>
+</p>
+
+<h1 align="center">Projects</h1>
+
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <h4>InfinitiSync</h4>
+    <p>A minecraft bedrock edition bot.</p>
+    <a href="https://github.com/AnyBananaGAME/InfinitiSync">GitHub Repository</a>
+  </div>
+
+  <div style="display: inline-block; margin: 10px;">
+    <h4>FatChicken</h4>
+    <p>A discord bot with a weird name</p>
+    <a href="https://github.com/AnyBananaGAME/FatChicken">GitHub Repository</a>
+  </div>
+
+  <div style="display: inline-block; margin: 10px;">
+    <h4>Shop</h4>
+    <p>A shop plugin i poorly made for PocketMineMP</p>
+    <a href="https://github.com/AnyBananaGAME/Shop">GitHub Repository</a>
+  </div>
+</div>
