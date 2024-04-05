@@ -24,13 +24,6 @@
   <img src="https://profile-counter.glitch.me/AnyBananaGAME/count.svg" alt="Profile Visits">
 </p>
 
-<h3 align="center">Latest GitHub Activity</h3>
-<p align="center">
-  <a href="https://github.com/users/AnyBananaGAME.atom">
-    <img src="https://img.shields.io/badge/Latest%20Activity-Feed-1F222E?style=flat&logo=github" alt="Latest GitHub Activity">
-  </a>
-</p>
-
 <h1 align="center">Projects</h1>
 
 <div align="center">
