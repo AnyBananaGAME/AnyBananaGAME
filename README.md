@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋</h1>
-<p align="center">I'm AnyBananaGAME (bonanoo), a 17-year-old programmer born in April 2006, passionate about JavaScript.</p>
+<p align="center">I'm AnyBananaGAME (bonanoo), a 18-year-old programmer born in April 2006, passionate about JavaScript.</p>
 
 <p align="center">
   <a href="https://discord.com/channels/@me/599675959888707594">
