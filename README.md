@@ -20,7 +20,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,bun,ubuntu,php,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,bun,ubuntu,php,redis,git,discord,discordjs,github,npm,phpstorm,vscode" />
 </p>
 
 ## 🌟 Projects
