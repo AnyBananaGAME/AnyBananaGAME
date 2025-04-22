@@ -15,7 +15,7 @@
 
 ## 🚀 About
 
-18-year-old code addict, part of [SanctumTerra](https://github.com/SanctumTerra/). Who enjoys NodeJS, Bun Typescript and Back End Softwares.
+19-year-old code addict, part of [SanctumTerra](https://github.com/SanctumTerra/). Who enjoys NodeJS, Bun Typescript and Back End Softwares.
 
 ## 💻 Tech Stack
 
