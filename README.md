@@ -99,7 +99,7 @@
 ## 🌟 Projects
 
 <div align="center">
-  <a href="https://github.com/SanctumTerra/Client">
+  <a href="https://github.com/SanctumTerra/Baltica">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SanctumTerra&repo=Client&theme=dark" />
   </a>
   <a href="https://github.com/SanctumTerra/Raknet">
