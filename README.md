@@ -100,7 +100,7 @@
 
 <div align="center">
   <a href="https://github.com/SanctumTerra/Baltica">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SanctumTerra&repo=Client&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SanctumTerra&repo=Baltica&theme=dark" />
   </a>
   <a href="https://github.com/SanctumTerra/Raknet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SanctumTerra&repo=Raknet&theme=dark" />
