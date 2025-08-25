@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://discord.com/channels/@me/599675959888707594"><img src="https://img.shields.io/badge/Discord-bonanoo-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://twitter.com/any_banana"><img src="https://img.shields.io/badge/Twitter-@any__banana-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/bonanoo_"><img src="https://img.shields.io/badge/Twitter-@bonanoo_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X"></a>
 </p>
 
 <p align="center">
