@@ -14,8 +14,8 @@ A developer and student from Europe.
 
 ## Notable Projects
 
-* [**Baltica**](https://github.com/SerenityJS/Baltica) – Core server software project.
-* [**BasaltBE**](https://github.com/BasaltBE) – A custom Minecraft Bedrock Edition server software written in C#.
+* [**Baltica**](https://github.com/SerenityJS/Baltica) - Minecraft Bedrock Toolkit for working on Servers + Clients.
+* [**BasaltBE**](https://github.com/BasaltBE) - A custom Minecraft Bedrock Edition server software written in C#.
 
 ---
 
